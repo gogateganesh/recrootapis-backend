@@ -1,0 +1,26 @@
+{
+  "name": "recrootapis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.4.1",
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-oauth-server": "^2.0.0",
+    "jsonwebtoken": "^9.0.1",
+    "mongoose": "^7.3.2",
+    "router": "^1.3.8",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  }
+}
